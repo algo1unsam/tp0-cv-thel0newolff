@@ -3,6 +3,8 @@
 Hola mi nombre <strong>Alejandro Augusto Arce</strong>(Si la triple A), tengo 35 años y en estos momentos estoy cursando la tecnicatura en <em>Programación Informática</em>, con el objetivo de meterme mas en el mundo de la programación, especializarme mas en el back-end y en un futuro poder participar en proyectos de videojuegos. Aparte de todo esto, tambien necesito tener buenos ingresos para poder mantener a mi gata Momo que es muy <font color="red"><strong>demandante</strong></font>.
 
 Adjunto imagen de la culpable de todo.
+
+
 ![Adjunto imagen](tpo/MOMO.jpg)
 
 <hr>
